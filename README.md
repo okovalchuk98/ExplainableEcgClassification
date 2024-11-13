@@ -21,8 +21,7 @@ This approach demonstrates high accuracy, achieving near-perfect performance on 
   
 ## Contents
 
-- **notebooks/**: Contains Jupyter notebooks for data exploration, model training, and evaluation.
-- **src/**: Core source code implementing R peak detection, arrhythmia classification, and interpretation.
+- **Notebooks/**: Contains Jupyter notebooks for data exploration, model training, and evaluation.
 - **README.md**: This file, describing the project structure, installation, and usage.
 - **LICENSE**: Licensing information.
 
