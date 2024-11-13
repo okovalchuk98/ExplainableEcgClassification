@@ -1,0 +1,28 @@
+# Core scientific libraries
+numpy==1.23.5
+scipy==1.10.1
+pandas==1.5.3
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Deep Learning Framework
+torch==2.0.1
+torchvision==0.15.2
+tensorflow==2.13.0    # If TensorFlow is also needed
+
+# ECG Signal Processing
+wfdb==3.5.1            # For reading ECG files from PhysioNet
+neurokit2==0.2.4       # For advanced ECG processing, such as R peak detection
+
+# Explainability and Interpretation Libraries
+shap==0.42.1           # SHAP for interpretability
+lime==0.2.0.1          # LIME for model explanation
+
+# Performance and Utilities
+tqdm==4.65.0           # Progress bars for model training and evaluation
+scikit-learn==1.2.2    # For metrics, model selection, etc.
+
+# Jupyter Notebook
+jupyter==1.0.0         # For running notebooks
