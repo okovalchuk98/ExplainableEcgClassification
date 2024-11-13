@@ -76,7 +76,7 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the terms of the Creative Commons CC BY 4.0 license. See the LICENSE file for more details.
+This project is licensed under the terms of the The MIT License. See the LICENSE file for more details.
 
 ## Acknowledgments
 
